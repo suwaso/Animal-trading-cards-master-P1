@@ -1,0 +1,53 @@
+.main {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+
+  margin: 10%;
+  width: 300px;
+
+  border: 7px solid  #cacace;
+  padding: 3%;
+  box-shadow: 0 5px 5px 1px #e6e6e6;
+
+  background: linear-gradient(0, rgb(0, 0, 255), white 30%, white 50%, rgb(0, 0, 255));
+}
+
+h3 {
+  margin: 0 0 2% 1%;
+  font-size: 200%;
+  text-align: center;
+  color: white
+}
+
+.pic {
+  margin-bottom: 3%;
+  width: 300px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.pic.center{}
+
+.data {
+  border: 2px solid #ddd;
+  padding: 5%;
+}
+
+.Animal-facts {
+  font-style: italic;
+  margin: 0;
+  text-align: center;
+}
+
+.list-facts {
+  font-style: italic;
+  padding: 0;
+  list-style: none;
+}
+
+.label {
+  font-weight: 700;
+  font-style: normal;
